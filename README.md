@@ -7,7 +7,7 @@ Uma aplicação web simples e interativa para gerenciar listas de participantes 
 
 ## 📸 Preview
 
-![Imagem representativa do projeto](/challenge-amigo-secreto_pt-main/assets/tela_desafio.png)
+![Imagem representativa do projeto](/assets/tela_desafio.png)
 
 ---
 
